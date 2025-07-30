@@ -14,7 +14,7 @@ enter an IP, see if it’s reachable.
    Open PowerShell and run the following command to clone the repository:
 
    ```
-   git clone https://github.com/notdonk666/ip-pinger.com
+   git clone https://github.com/notdonk666/ip-pinger.git
    ```
 
 2. **Navigate to the Project Directory:**
